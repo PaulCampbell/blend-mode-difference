@@ -1,6 +1,6 @@
 {
   "name": "blend-mode-difference",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "given two images returns a blend mode difference",
   "main": "blendModeDifference.js",
   "directories": {
@@ -16,5 +16,12 @@
     "jimp": "^0.2.24",
     "jpeg-js": "^0.2.0",
     "mocha": "^2.5.3"
+  },
+  "bugs": {
+    "url": "https://github.com/PaulCampbell/blend-mode-difference/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaulCampbell/blend-mode-difference.git"
   }
 }

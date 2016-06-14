@@ -18,16 +18,16 @@ it will return an ImageData Buffer containing the the blend mode difference of t
 
 ### beer.jpg
 
-<img src="test/beer.jpg" align="left" height="320" width="240" >
+<img src="https://raw.githubusercontent.com/PaulCampbell/blend-mode-difference/master/test/beer.jpg" align="left" height="320" width="240" >
 
 
 ### no_beer.jpg
 
-<img src="test/no_beer.jpg" align="left" height="320" width="240" >
+<img src="https://raw.githubusercontent.com/PaulCampbell/blend-mode-difference/master/test/no_beer.jpg" align="left" height="320" width="240" >
 
 
 ### blended.jpg
 
-<img src="test/blended.jpg" align="left" height="320" width="240" >
+<img src="https://raw.githubusercontent.com/PaulCampbell/blend-mode-difference/master/test/blended.jpg" align="left" height="320" width="240" >
 
 
